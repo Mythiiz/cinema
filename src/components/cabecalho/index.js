@@ -14,7 +14,7 @@ export default function Cabecalho(){
         
               </TouchableOpacity>
               
-              <Text style={styles.textHeader}> CineBrothers </Text>
+              <Text style={styles.textHeader}> MovieLab </Text>
         
             </View>
     )
